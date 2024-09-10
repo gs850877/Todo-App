@@ -1,0 +1,14 @@
+
+input {
+    width: 100%;
+}
+
+
+
+.gs-row {
+    margin: 10px 5px;
+}
+
+.gs-btn {
+    min-width: 80px;
+}
